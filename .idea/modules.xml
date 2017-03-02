@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cdanalysisdatalib/cdanalysisdatalib.iml" filepath="$PROJECT_DIR$/cdanalysisdatalib/cdanalysisdatalib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cdcachelib/cdcachelib.iml" filepath="$PROJECT_DIR$/cdcachelib/cdcachelib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cdrxhttplib/cdrxhttplib.iml" filepath="$PROJECT_DIR$/cdrxhttplib/cdrxhttplib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cdviewlib/cdviewlib.iml" filepath="$PROJECT_DIR$/cdviewlib/cdviewlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/longshao.iml" filepath="$PROJECT_DIR$/longshao.iml" />
+    </modules>
+  </component>
+</project>
